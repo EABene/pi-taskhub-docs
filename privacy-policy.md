@@ -1,31 +1,35 @@
-**Terms of Service for Pi TaskHub**
+**Privacy Policy for Pi TaskHub**
 
-Effective Date: [Date]
+Effective Date: 15.03.2025
 
-**1. Acceptance of Terms**
-By using Pi TaskHub, you agree to abide by these Terms of Service. If you do not agree, please do not use the app.
+**1. Introduction**
+Welcome to Pi TaskHub! Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
-**2. Description of Service**
-Pi TaskHub allows users to post, complete, and earn Pi for tasks. All transactions are conducted through the Pi Network.
+**2. Information We Collect**
+- **Personal Information**: When you log in via Pi Network, we collect your Pi username and public profile information.
+- **Task Data**: We collect and store information related to tasks you post or complete.
+- **Payments**: If you transact in Pi, we process payment-related data securely.
+- **Usage Data**: We collect non-personal analytics data to improve the app.
 
-**3. User Responsibilities**
-- You must be a registered Pi Network user.
-- You agree to post legitimate tasks and interact respectfully with other users.
-- You must not use the app for illegal or fraudulent activities.
+**3. How We Use Your Information**
+- To enable task creation, completion, and rewards.
+- To authenticate users via Pi Network.
+- To improve user experience and optimize app performance.
+- To process transactions securely.
 
-**4. Payments & Transactions**
-- Task rewards are transacted in Pi cryptocurrency.
-- Pi TaskHub is not responsible for transaction disputes; users must resolve them independently.
+**4. Data Security**
+We implement security measures to protect your data, but we cannot guarantee 100% security due to the nature of the internet.
 
-**5. Account Termination**
-We reserve the right to suspend or terminate accounts that violate our policies.
+**5. Sharing of Information**
+We do not sell or share your personal data with third parties, except as required by law or necessary for app functionality (e.g., Pi Network authentication).
 
-**6. Limitation of Liability**
-We provide the app “as is” and are not liable for damages resulting from its use.
+**6. User Rights**
+- You can request deletion of your account and associated data.
+- You can access and update your personal information.
 
-**7. Changes to Terms**
-We may update these Terms of Service. Continued use after changes means you accept them.
+**7. Changes to This Policy**
+We may update this Privacy Policy from time to time. Users will be notified of major changes.
 
 **8. Contact Us**
-For questions, contact us at [Your Contact Email].
+If you have questions, contact us at...
 
